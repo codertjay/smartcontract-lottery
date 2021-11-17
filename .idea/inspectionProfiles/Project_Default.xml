@@ -240,6 +240,7 @@
           <option value="transaction.models.TransactionRef" />
           <option value="brownie.SimpleStorage" />
           <option value="brownie.FundMe" />
+          <option value="brownie.MockV3Aggregator" />
         </list>
       </option>
     </inspection_tool>
