@@ -23,7 +23,8 @@ contract Lottery is VRFConsumerBase, Ownable {
     //    1
     //    2
 
-    constructor(address _priceFeedAddress,
+    constructor(
+        address _priceFeedAddress,
         address _vrfCoordinator,
         address _link,
         uint256 _fee,
